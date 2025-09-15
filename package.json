@@ -1,0 +1,26 @@
+{
+  "name": "ea30k",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev doc",
+    "build": "vuepress build doc",
+    "release:minor": "commit-and-tag-version --release-as minor && cp CHANGELOG.md doc/changelog.md",
+    "release:patch": "commit-and-tag-version --release-as patch && cp CHANGELOG.md doc/changelog.md",
+    "release:major": "commit-and-tag-version --release-as major && cp CHANGELOG.md doc/changelog.md"
+  },
+  "keywords": [],
+  "author": "",
+  "devDependencies": {
+    "@types/node": "^24.5.0",
+    "@vuepress/bundler-vite": "2.0.0-rc.24",
+    "@vuepress/theme-default": "2.0.0-rc.112",
+    "commit-and-tag-version": "^12.6.0",
+    "sass-embedded": "^1.92.1",
+    "typescript": "^5.9.2",
+    "vue": "^3.5.21",
+    "vuepress": "2.0.0-rc.24",
+    "vuepress-automenu": "^1.5.3"
+  }
+}

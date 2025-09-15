@@ -1,0 +1,29 @@
+table tr td, table tr th {
+  padding: 0.2rem 0.5rem;
+  font-size: 0.8rem;
+}
+
+table tr th {
+  font-size: 0.6rem;
+}
+
+.vp-hero {
+  background-color: black;
+  background-image: url('../../hero.png');
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 15rem 1rem 1rem;
+}
+.vp-hero h1 ,
+.vp-hero-description {
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    text-transform: uppercase;
+}
+.vp-hero h1 {
+  letter-spacing: 1.6rem;
+}
+.vp-hero-description {
+  letter-spacing: 0.2rem;
+}

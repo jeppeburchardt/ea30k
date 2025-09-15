@@ -1,0 +1,39 @@
+{
+  "header": "# Changelog",
+  "types": [
+    {
+      "type": "feat",
+      "section": "Features"
+    },
+    {
+      "type": "fix",
+      "section": "Fixes"
+    },
+    {
+      "type": "chore",
+      "section": "Other"
+    },
+    {
+      "type": "docs",
+      "section": "Other"
+    },
+    {
+      "type": "style",
+      "section": "Other"
+    },
+    {
+      "type": "refactor",
+      "section": "Other"
+    },
+    {
+      "type": "perf",
+      "section": "Other"
+    },
+    {
+      "type": "test",
+      "section": "Other"
+    }
+  ],
+  "commitUrlFormat": "https://github.com/jeppeburchardt/ea30k/commits/{{hash}}",
+  "compareUrlFormat": "https://github.com/jeppeburchardt/ea30k/compare/{{previousTag}}...{{currentTag}}"
+}

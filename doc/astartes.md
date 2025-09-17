@@ -67,6 +67,7 @@ Three support detachments may be chosen for each line detachment selected. A det
 | Legion Thunderhawk Gunship | 1 Thunderhawk Gunship unit | \-  | 250 pts |
 | Legion Thunderhawk Transport Wing | 1-3 Thunderhawk Transporter units | \-  | 125 pts each |
 | Legion Vindicator Squadron | 4-6 Vindicator Siege units | Centurion, Armoury Assets, Hyperios | 50 pts each |
+| Legion Kratos Heavy Tank squadron *(experimental)* | 2-4 Kratos Heavy Tank units | Centurion | 100 pts each | 
 
 ### Lords of War
 
@@ -175,6 +176,7 @@ From Horus Heresy Supplement
 | Spartan Assault Tank | WE  | 25cm | 4+  | 6+  | 5+  | 2 x Quad Lascannon  <br>TL Heavy Bolter | 45cm  <br>30cm | 2 x AT4+  <br>AP4+, FxF | _DC2, Reinforced Armour, Thick Rear Armour, Transport: May carry four of the following units Tactical, Breacher **OR** 2 Terminators. Critical Hit: Unit is destroyed and all units within 5cm suffer a standard hit on a 6+_ |
 | Mastodon Heavy Assault Transport | WE  | 20cm | 4+  | 5+  | 4+  | Siege Melta Array  <br>2 x Lascannon  <br>2 x Heavy Flamer  <br>Skyreaper Battery | (base contact)  <br>45cm (1 R, 1 L)  <br>15cm (1 R, 1 L)  <br>30cm | (assault weapons) MW, EA(+2)  <br>AT5+  <br>AP4+, _Ignore Cover_  <br>2 x AP4+/AT5+/AA5+ | _DC4, 2 Void Shields, Reinforced Armour, Thick Rear Armour, Transport: May carry eight of the following units Tactical, Breacher **OR** 4 Terminators **OR** 2 Dreadnoughts and 4 Tacticals. A Mastodon may exchange its Skyreaper Battery for a Command Relay. A Mastodon with a Command Relay has the Exploratory Augury Web special rule._ |
 | Typhon Siege Tank | WE  | 25cm | 4+  | 6+  | 5+  | Dreadhammer Siege Cannon  <br>2 x Heavy Bolter | 30cm **AND** (15cm)  <br>30cm | 3BP, _Indirect Fire, Ignore Cover, FxF_ AND (small arms) _Ignore Cover_  <br>AP5+ | _DC2, Reinforced Armour._ |
+| Kratos Heavy Tank | WE | 25cm | 4+ | 5+ | 6+ | Kratos Battlecannon **OR** Melta Cannon <br><br>Co-ax Autocannon<br><br> 2x Hull Heavy Bolters **OR** 2x Hull Lascannon<br><br> 2x Sponson Heavy Bolters **OR** 2x Sponson Lascannons | 45cm **OR** 30cm<br><br> 45cm<br><br> 30cm **OR** 45cm<br><br> 30cm **OR** 45cm | 2x AP(3+), AT(3+), Armourbane **OR** 4X MW(5+), Armourbane<br><br> AP(5+), AT(6+)<br><br> AP(5+) **OR** AT(5+) FxF<br><br> AP(5+) **OR** AT(5+) | DC(2), Reinforced Armour, Thick Rear Armour |
 
 ### Aircraft & Spacecraft
 

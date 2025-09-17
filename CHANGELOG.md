@@ -1,4 +1,11 @@
 # Changelog
+## [1.0.1](https://github.com/jeppeburchardt/ea30k/compare/v1.0.0...v1.0.1) (2025-09-17)
+
+
+### Features
+
+* Legion Kratos Heavy Tank ([abe6734](https://github.com/jeppeburchardt/ea30k/commits/abe6734d645e6de9254b4e51788909cc321661e1))
+
 ## 1.0.0 (2025-09-17)
 
 

@@ -1,15 +1,14 @@
 {
   "name": "ea30k",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev doc",
-    "build": "vuepress build doc",
-    "release:minor": "commit-and-tag-version --release-as minor && copy-changelog",
-    "release:patch": "commit-and-tag-version --release-as patch && copy-changelog",
-    "release:major": "commit-and-tag-version --release-as major && copy-changelog",
-    "copy-changelog": "cp CHANGELOG.md doc/changelog.md && git add doc/changelog.md && git commit --amend --no-edit"
+    "build": "cp CHANGELOG.md doc/changelog.md && vuepress build doc",
+    "release:minor": "commit-and-tag-version --release-as minor",
+    "release:patch": "commit-and-tag-version --release-as patch",
+    "release:major": "commit-and-tag-version --release-as major"
   },
   "keywords": [],
   "author": "",
